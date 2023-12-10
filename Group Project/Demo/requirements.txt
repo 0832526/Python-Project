@@ -1,5 +1,0 @@
-pip install pandas
-pip install requests
-pip install requests beautifulsoup4
-pip install flask
-pip install sqlalchemy
